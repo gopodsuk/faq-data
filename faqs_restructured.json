@@ -1,17 +1,17 @@
 [
   {
     "question": "Who makes Go-Pods?",
-    "answer": "Go-Pods are manufactured in Portugal and have been in production for over 25 years!<br><br>Red Lion Caravan Centre are the sole importer and distributor of Go-Pods in the United Kingdom, though we also have a gradually expanding dealership network in the European Union.",
+    "answer": "Go-Pods are manufactured in Portugal and have been in production for over 25 years!<br><br><a href="https://www.rlcaravans.co.uk/“>Red Lion Caravan Centre</a> are the sole importer and distributor of Go-Pods in the United Kingdom, though we also have a <a href="https://www.go-pod.com/dealers“>gradually expanding dealership network in the European Union</a>.",
     "category": "About us"
   },
   {
     "question": "Where can I view a Go-Pod?",
-    "answer": "There are a few ways to view a Go-Pod;<br><br>• In person at one of our dealerships.<br><br>• Online with a member of our sales team.<br><br>• Visit us at a show or event we're attending.<br><br>• At any of our 80+ owner viewing locations. These are real customers who have bought & use Go-Pods themselves. They offer viewings to others as part of our Referrals & Rewards programme to save prospective customers travelling time and providing them an opportunity to speak to a real owner, rather than a sales person. After viewing, customers are invited to order online or by phone, as preferred.",
+    "answer": "There are a few ways to view a Go-Pod;<br><br>• In person at our <a href="https://www.go-pods.co.uk/head-office-viewings.html“>showroom in Southport, Lancashire.</a><br><br>• <a href="https://www.go-pods.co.uk/video-viewings.html“>Online with a member of our sales team.</a><br><br>• Visit us at a <a href="https://www.go-pods.co.uk/events“>show or event</a> we're attending.<br><br>• <a href="https://www.go-pods.co.uk/owner-viewings.html“>View locally with a real Go-Pod owner!</a>",
     "category": "General questions"
   },
   {
     "question": "Can I buy a Go-Pod from anywhere else?",
-    "answer": "Red Lion Caravans in Southport, Lancashire, are the only official dealer of Go-Pods in the UK. We have a number of dealers in the EU.",
+    "answer": "Red Lion Caravan Centre/Go-Pods.co.uk are the only official dealer of Go-Pods in the UK.",
     "category": "General questions"
   },
   {
@@ -35,23 +35,23 @@
     "category": "General questions"
   },
   {
-    "question": "Can I use my Go-Pod off-grid (without access to mains electricity)?",
-    "answer": "Go-Pods are extremely versatile and can be used without access to mains (240v) electricity supply.<br><br>They include:<br><br>• 12v 85Ah leisure battery (110Ah upgrade available)<br>• Dometic CRE50 compressor refrigerator (powered by the onboard leisure battery)<br>• 2 burner gas hob.<br><br>Optional extras include:<br><br>• 100w solar panel to provide charge to the leisure battery.<br>• Propex dual-fuel blown air heating system, able to run on either gas or 240V.",
+    "question": "Can I use my Go-Pod off grid (without access to mains electricity)?",
+    "answer": "Go-Pods are extremely versatile and can be used without access to mains (240v) electricity supply.<br><br>They include:<br><br>• 12v 85Ah leisure battery (110Ah upgrade available)<br>• Dometic CRE50 compressor refrigerator (powered by the onboard leisure battery)<br>• 2 burner gas hob.<br><br>Optional extras include:<br><br>• <a href="https://www.go-pods.co.uk/go-pods-shop/prod_6810758-Solar-Panel.html”>100w solar panel</a> to provide charge to the leisure battery.<br>• <a href="https://www.go-pods.co.uk/go-pods-shop/prod_6810767-Blown-Air-Heating-Dual-Fuel.html”>Dual-fuel blown air heating system</a>, able to run on either gas or 240V.",
     "category": "General questions"
   },
   {
     "question": "How can I place an order for a Go-Pod?",
-    "answer": "To order a Go-Pod, give us a call on 01234 816 832 or send an email to Sales@Go-Pods.co.uk. Alternatively, visit our showroom at Red Lion Caravan Centre, Southport, Lancashire.<br><br>If you're viewing this website from outside of the UK and there isn't yet a Go-Pods dealer in your country, you can order from us direct for collection from our factory in Portugal, or we can arrange delivery to your home for an extra charge.<br><br>Please contact us for more details.",
+    "answer": "To order a Go-Pod, <a href="tel:+441234816832”>give us a call on 01234 816 832</a> or <a href=“mailto:sales@go-pods.co.uk”>send an email to Sales@Go-Pods.co.uk</a>. Alternatively, <a href=“https://www.go-pods.co.uk/head-office-viewings.html”>visit our showroom at Red Lion Caravan Centre, Southport, Lancashire.</a>",
     "category": "Ordering a Go-Pod"
   },
   {
     "question": "Where do I collect my Go-Pod?",
-    "answer": "Collection is from Red Lion Caravan Centre in Southport, Lancashire",
+    "answer": "Collection is from <strong>Red Lion Caravan Centre in Southport, Lancashire.</strong>",
     "category": "Collection and delivery"
   },
   {
     "question": "Do you offer delivery?",
-    "answer": "Yes! Home delivery is available from £2.00/mile, charged one way. We calculate this based on the distance from our premises (postcode PR8 5LF) to your delivery postcode, using the shortest route shown on Google Maps. Check our delivery & collection page for a handy calculator to help you to work out likely delivery charges.<br><br>However, we do encourage our customers to collect where possible, especially those new to caravanning. Collecting from us ensures you will receive a thorough & detailed handover presentation from our knowledgeable team.",
+    "answer": "Yes! Home delivery is available from <strong>£2.00/mile, charged one way.</strong><br><br>We calculate this based on the distance from our premises (postcode PR8 5LF) to your delivery postcode, using the shortest route shown on Google Maps. Check our <a href=“https://www.go-pods.co.uk/how-to-order”>How To Order</a> page for a handy calculator to help you to work out delivery charges.<br><br>However, we do encourage our customers to collect where possible (especially those new to caravanning).<br><br>Collecting from us ensures you will receive a thorough & detailed handover presentation from our knowledgeable team.",
     "category": "Collection and delivery"
   },
   {
