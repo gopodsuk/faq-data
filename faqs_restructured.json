@@ -62,3 +62,86 @@
   {
     "question": "Do I need to bring a number plate with me?",
     "answer": "Ideally, yes. However, we do offer number plate printing on site for an additional fee. To do so, you will need to bring your driving license and V5C for us to verify that you are the registered keeper of the vehicle.",
+    "category": "Collection and delivery"
+  },
+  {
+    "question": "Do I need insurance for my Go-Pod?",
+    "answer": "Insurance isn't legally mandated for caravans, but it is heavily recommended to cover you in the event of an accident.<br><br>Go-Pods are partnered with Caravan Guard, the leading insurer of leisure vehicles in the UK and the first insurer to offer comprehensive policies for Go-Pods.",
+    "category": "Collection and delivery"
+  },
+  {
+    "question": "How do I register my Go-Pod with CRiS?",
+    "answer": "All of our pre-owned Go-Pods are registered with CRiS and will be transferred into your name on your handover day. From 2026, all brand new Go-Pod stock models will also be preregistered with CRiS.",
+    "category": "Collection and delivery"
+  },
+  {
+    "question": "How are Go-Pods manufactured?",
+    "answer": "Go-Pods are relatively unique caravans, as they have a one-piece GRP fibreglass shell with no seams or joins. This prevents water ingress and extends the longevity of the caravan.<br><br>Our patented shell design is produced by a fibreglass manufacturer using a mould. Fibreglass is poured into the mould and allowed to set. A gel coat is applied atop the fibreglass shell to provide an attractive finish.<br><br>We build the body of the Go-Pods at our factory, using a galvanised steel chassis as the base. We then place the shell onto the chassis, and begin fitting the interior of the Go-Pod.<br><br>The frame is constructed with wood (which helps to keep the weight down) and the cavities are filled with medium density polystyrene insulation blocks. This helps to retain heat in the colder months, and keep the Go-Pod cool during the summer months. White lacquered MDF wall panels are then placed over the frame and insulation.<br><br>The floor (and under-floor) is made from marine-grade plywood, which is water resistant and helps to prevent against water ingress from road water. It is securely sealed around the edges using high quality caravan sealant.<br><br>Interior furniture units are made from strong poplar plywood.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "Can my car tow a Go-Pod?",
+    "answer": "Go-Pods are light enough to be towed by many of today’s small engine cars.<br><br>Go-Pods have brakes on the wheels too, so look for the ‘Braked Towing Capacity’ on your V5 Document and as long as it exceeds 750Kg, you can legally tow.<br><br>For more information, please click here.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "What towing equipment is required?",
+    "answer": "You need a standard 50mm diameter tow ball and 13 pin Euro socket electrics.<br><br>This socket will accept the Go-Pods 13 pin plug which works the towing lights, charges the caravan's on-board battery and powers the fridge in transit.<br><br>If your tow vehicle has twin electrics you can buy an adaptor to convert the leads. If you have only 7 pin electrics on your car, you can still tow with an adaptor but it will only operate the driving lights & won't power anything else.<br><br>You do not require an AL-KO branded tow bar and non branded tow bars are fine to fit.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "Do I need extended towing mirrors?",
+    "answer": "The Law requires that drivers of the towing vehicles have adequate view to the rear. With the Go-Pod, most vehicles existing side mirrors allow for a good view along the entire side of the caravan and extension mirrors are not therefore required.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "What tyre sizes are suitable for Go-Pods?",
+    "answer": "The standard tyre size for all Go-Pods (including those with an upgraded chassis rating of 1000 kg) is 175/70 R13 86N.<br><br>A suitable alternative for Go-Pods with a chassis rating of 750 kg is 175/70 R13 82T.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "What should the tyre pressure be?",
+    "answer": "Go-Pod tyres should be inflated to a pressure of 35 psi.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "What are the torque settings for Go-Pod wheels?",
+    "answer": "The wheel nut torque is 65lbs for standard wheels and 95lbs for alloys.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "Which gas bottles are suitable for Go-Pods?",
+    "answer": "Please refer to this page for suitable gas bottles.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "Where can I have my Go-Pod serviced?",
+    "answer": "If you're not able to bring your Go-Pod to the workshop at Red Lion Caravan Centre for servicing, use any NCC approved workshop.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "Where can I find my chassis number?",
+    "answer": "Your chassis number can be found on a stamped plate that's riveted to the square draw bar at the front of your Go-Pod. The longest number on the plate is your chassis number. This will be required when insuring your Go-Pod.",
+    "category": "Technical questions"
+  },
+  {
+    "question": "What does 'MiRO' mean?",
+    "answer": "MiRO stands for Mass In Running Order.<br><br>It's sometimes referred to as the 'factory weight' or 'unladen weight' of a caravan or trailer.<br><br>This is essentially the unladen weight of a Go-Pod, without any personel effects, additional equipment or passengers inside.",
+    "category": "Terminology"
+  },
+  {
+    "question": "What does 'MTPLM' mean?",
+    "answer": "MTPLM stands for Maximum Technically Permissible Laden Mass.<br><br>This is the total weight (set by the manufacturer) that a caravan/trailer cannot exceed when fully laden.<br><br>The MTPLM is sometimes referred to as the 'MAM', or Maximum Authorised Mass.<br><br>To ascertain whether your vehicle can tow a caravan, you should compare the MTPLM figure to your vehicles 'braked towing allowance', which can be found in the registration documents or vehicle manual.<br><br>If the 'braked towing allowance' matches or exceeds the MTPLM of the caravan, you can legally tow it.",
+    "category": "Terminology"
+  },
+  {
+    "question": "What does 'Payload' mean?",
+    "answer": "The payload of a caravan/trailer is quite simply the available weight for personal effects and supplies.<br><br>You can find the payload of a caravan or trailer by subtracting the MiRO (Mass in Running Order) from the MTPLM (Maximum Technically Permissible Laden Mass).",
+    "category": "Terminology"
+  },
+  {
+    "question": "What does 'Nose weight' mean?",
+    "answer": "Nose weight is the weight or downward force from the caravan's hitch to the tow car's tow ball.",
+    "category": "Terminology"
+  }
+]
